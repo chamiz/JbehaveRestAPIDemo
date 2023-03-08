@@ -61,5 +61,3 @@ Cheers
 Chamila Ambahera
 
 chamila.ambahera@gmail.com
-
-chamila.ambahera@gmail.com
