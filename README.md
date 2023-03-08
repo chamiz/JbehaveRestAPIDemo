@@ -49,8 +49,8 @@ gradle clean build or use your IDE
 
 **CI support**
 
-This project has enabled Travis CI support using travis-ci.org. Report
-https://travis-ci.org/chamiz/JbehaveRestAPIDemo
+This project has enabled continuous integration support using Circle CI.
+https://app.circleci.com/pipelines/github/chamiz/JbehaveRestAPIDemo
 
 
 If you need further clarifications or enhancement requests on this project please contact me via email.
