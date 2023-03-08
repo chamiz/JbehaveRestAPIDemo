@@ -18,7 +18,7 @@ This project was written using https://api.tmsandbox.co.nz/v1/Categories/6327/De
 | test | Java     | com.example.steps     | Story definition                                 |  
 | test |          | WebServiceDemoStories | Execution class                                  | 
 | test | Resource | Story File            | JBehave story file which describes the test case |
-|      |          | .travis.yml           | Travis CI config file                            |
+|      |          | .circleci             | .circleci config files for CI                    |
 |      |          | build.gradle          | Gradle build file                                |
 
 If you need to **import project** files to your IDE please run commands
